@@ -11,5 +11,5 @@ def subraction(num1, num2):
     else:
         result= num2 - num1
 
-    return result
+    return resul
         

@@ -12,4 +12,9 @@ def subraction(num1, num2):
         result= num2 - num1
 
     return resul
+
+
+def multiply(num1, num2):
+    result = num1 * num2
+    return result
         
